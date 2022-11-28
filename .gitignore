@@ -1,0 +1,10 @@
+obj/
+bin/
+tst/obj/
+tst/bin/
+doc/html/
+tags
+.cache/
+bld/
+build/
+compile_commands.json
